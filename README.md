@@ -12,15 +12,15 @@ Super Encryption Tool is a Python application built with PyQt5 that allows you t
 ## Supported File Types
 The tool supports encryption for the following file types:
 
-| File Type          | File Extension |
-|--------------------|----------------|
-| All Files          | `*.*`           |
-| Python Files       | `*.py`          |
-| JavaScript Files   | `*.js`          |
-| Ruby Files         | `*.rb`          |
-| C++ Files          | `*.cpp`         |
-| PowerShell Files   | `*.ps1`         |
-| Bash Files         | `*.sh`          |
+| File Type          | File Extension  |
+|--------------------|-----------------|
+| All Files          |    `*.*`        |
+| Python Files       |    `*.py`       |
+| JavaScript Files   |    `*.js`       |
+| Ruby Files         |    `*.rb`       |
+| C++ Files          |   `*.cpp`       |
+| PowerShell Files   |   `*.ps1`       |
+| Bash Files         |   `*.sh`        |
 
 ## Requirements
 - Python 3.x
@@ -73,8 +73,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![Super Encryption Screenshot](Super-Encryption.png)
 
-
-# Super-Encryption-Tool
 # Super-Encryption
-# Super-Encryption-
 # Super-Encryption
